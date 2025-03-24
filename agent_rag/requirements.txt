@@ -101,3 +101,7 @@ websockets==14.2
     # via restack-ai
 yarl==1.18.3
     # via aiohttp
+weaviate
+    # added new 03/24/2025
+weaviate-client
+    # added new 03/24/2025
